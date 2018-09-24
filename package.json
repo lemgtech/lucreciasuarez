@@ -1,0 +1,14 @@
+{
+  "name": "lucreciasuarez",
+  "version": "1.0.0",
+  "description": "Lucrecia Suarez's website",
+  "main": "index.js",
+  "scripts": {
+    "lemg": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Luis Edgardo Martinez Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
